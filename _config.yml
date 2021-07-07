@@ -1,7 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-title: Just the Docs
-description: A Jekyll theme for documentation
-logo: "/assets/images/FT_logo_NL.png"
+title: Facultatieve Technologies
+description: Handleidingen voor gebruik installaties
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
