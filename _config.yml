@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: Just the Docs
 description: A Jekyll theme for documentation
-logo: "https://www.facultatieve-technologies.com/wp-content/uploads/FT-Logo-EN.png"
+logo: "/assets/images/FT_logo_NL.png"
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
